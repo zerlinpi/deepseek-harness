@@ -1,0 +1,6 @@
+{
+  "name": "@deepseek-harness/tool-runtime-contracts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module"
+}
